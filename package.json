@@ -1,5 +1,22 @@
 {
   "devDependencies": {
     "typescript": "^5.0.4"
-  }
+  },
+  "name": "pruebas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban2119/typescript_ejercicios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban2119/typescript_ejercicios/issues"
+  },
+  "homepage": "https://github.com/Esteban2119/typescript_ejercicios#readme",
+  "description": ""
 }

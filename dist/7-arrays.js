@@ -10,7 +10,7 @@ let meses;
 //meses.map(item => item * 2);
 let multiplicacion = myArray.map(item => item * 2);
 console.log(multiplicacion);
-//definir array de vatios tipos de datos:
+//definir array de varios tipos de datos:
 let mezclado = ["hola mundo", 12, 3, 4, "hello world"];
 console.log(mezclado);
 (() => {

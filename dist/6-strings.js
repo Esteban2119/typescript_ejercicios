@@ -2,7 +2,7 @@
 //comillas simples 
 let myName = 'Esteban';
 let myName1 = 'Esteban-dido "2121" siempre';
-//comillassimples dentro de comillas siemprle sno funciona
+//comillas simples dentro de comillas siemples no funciona
 //let myname2 = 'Esteban-dido 'hola' siempre';
 //comillas dobles
 let myName3 = "comillas dobles";

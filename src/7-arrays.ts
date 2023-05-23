@@ -10,13 +10,15 @@ console.log(myArray);
 //no sepuede agregar un string en un array tipo number : myArray.push("10"):
 
 let meses : ["Enero", "Febrero", "Mazo", "Abril", "Mayo", "Junio"];
+
+
 // no se puede operar con datos tipo string: 
 //meses.map(item => item * 2);
 
 let multiplicacion = myArray.map(item => item * 2);
-console.log(multiplicacion);
+console.log(multiplicacion);                                                                                                                
 
-//definir array de vatios tipos de datos:
+//definir array de varios tipos de datos:
 
 let mezclado: (number | string)[] = ["hola mundo", 12,3,4, "hello world"];
 
